@@ -1,9 +1,10 @@
+@import url(styles/sass/Modules/mixin.css);
 body {
   margin: 0;
   padding: 0; }
 
 .nav {
-  background-color: #fff;
+  background-color: #3794b1;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.527);
   padding: .6rem 0; }
   .nav__content {
