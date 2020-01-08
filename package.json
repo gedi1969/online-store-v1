@@ -1,0 +1,14 @@
+{
+  "name": "online-store",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "index.js",
+  "scripts": {
+    "compiler": "node-sass styles/style.scss styles/style.css -w"
+  },
+  "author": "Edi Gallo",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
