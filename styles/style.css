@@ -233,7 +233,7 @@ body {
 
 .products {
   padding: 8rem 2rem;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.336), rgba(0, 0, 0, 0.384)), url(/images/cat7.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.336), rgba(0, 0, 0, 0.384)), url(./images/cat7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; }
