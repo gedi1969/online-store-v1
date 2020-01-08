@@ -1,0 +1,42 @@
+.history{
+    padding:1rem 2rem 1rem 0;
+    
+  
+
+
+    &__content{
+        display: flex;
+        padding: 4rem 2rem;
+       
+    }  
+
+
+    &__img--container{
+        width:50%;
+        background-image:url(/images/cat6.jpg) ;
+        background-attachment: fixed;
+        margin-right: 2rem;
+        clip-path: polygon(0% 0%,100% 0,70% 100% , 0 100%);
+
+
+}
+ 
+    &__text{
+        width:50%;
+    }
+
+    &__title{
+        font-size:1.6rem;
+        margin-top: 0;
+    }
+
+    &__description{
+        font-size:1.2rem;
+        color :#999;
+        line-height: 1.6;
+        margin-bottom: 2rem;
+    }
+    
+    
+}
+
